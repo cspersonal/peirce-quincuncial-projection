@@ -1,4 +1,7 @@
 #Peirce Quincuncial Projection of the Sphere
+
+Jason Davies has produced a [version](http://www.jasondavies.com/maps/peirce/) of a quincuncial projected map that almost looks like the one in the original [paper](http://www.jstor.org/stable/2369491) from 1879
+
 ##Properties
 
 [The Peirce Quincunx](http://en.m.wikipedia.org/wiki/Peirce_quincuncial_projection) is one of the most beautiful map projections. It has the following properties:   
