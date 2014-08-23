@@ -1,6 +1,6 @@
 #Peirce Quincuncial Projection of the Sphere
 
-The R-code provided can be used to project WGS84-coordinates into Peirce quincuncial projection. Until now there was no solutionnto do this in R.
+The R-code provided can be used to project WGS84-coordinates into Peirce quincuncial projection. Until now there was no solution to do this in R.
 
 Jason Davies has produced a [version](http://www.jasondavies.com/maps/peirce/) of a quincuncial projected map that almost looks like the one in Peirce' original [paper](http://www.jstor.org/stable/2369491) from 1879.
 
