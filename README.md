@@ -1,6 +1,9 @@
 #Peirce Quincuncial Projection of the Sphere
 
-Jason Davies has produced a [version](http://www.jasondavies.com/maps/peirce/) of a quincuncial projected map that almost looks like the one in the original [paper](http://www.jstor.org/stable/2369491) from 1879
+Jason Davies has produced a [version](http://www.jasondavies.com/maps/peirce/) of a quincuncial projected map that almost looks like the one in Peirce' original [paper](http://www.jstor.org/stable/2369491) from 1879.
+
+![quincunx](http://pbs.twimg.com/media/BD5Mu8_CEAEL7Vv.png)
+
 
 ##Properties
 
