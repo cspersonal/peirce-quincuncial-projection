@@ -12,7 +12,7 @@ Jason Davies has produced a [version](http://www.jasondavies.com/maps/peirce/) o
 [The Peirce Quincunx](http://en.m.wikipedia.org/wiki/Peirce_quincuncial_projection) is one of the most beautiful map projections. It has the following properties:   
   * It is a conformal projection. Means it is no equal-area projection, it distorts the sizes of areas like the Mercator projection.
   * Its exaggeration of scale is only 9% whereas Mercator has 13%.
-  * The points of the highest distortion are at the poles and in the middle of the oceans. 
+  * It has only 4 non-conformal points on the equator at the 90° angles. 
   * It represent the hemispheres as squares.
   * It tessellates the plane. This can be useful in thematic mapping to display different indicators simultaneously.
 
