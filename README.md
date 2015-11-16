@@ -21,7 +21,6 @@ Like Mercator it (actually) shouldn't be used for thematic mapping, because it i
   * One of the main points of Peters critique (see [Gall-Peters](http://en.m.wikipedia.org/wiki/Gall%E2%80%93Peters_projection)) of Mercator was that it exaggerates increasingly the size of land masses with growing distance from the equator. Therefore europe is relatively bigger compared to africa and so europe seems to be more important.
   * But Gall-Peters is in my opinion a aesthetic disaster.
   * So, when Mercator is the de facto standard, why shouldn't we do some counter projecting and exaggerate the size of areas with growing distance from the poles?
-  * I see no reason not to use the quincunx, when mercator is used everywhere!   
   * Furthermore Gall-Peters doesn't achieve what it claims to achieve - a just representation of the world - because there is no relation between geographic size and the importance of a country in a economic, social or cultural area. If we want to achieve this (simultaneous representation of topological relations  and some statistical indicator), we should use [cartograms](http://www.worldmapper.org/index.html).
 
 ##The technical Part: Usage and Availability
